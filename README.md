@@ -66,7 +66,7 @@ To stop the demo, press `Ctrl+C`.
 
 ## Documentation
 
-You can learn more about the Deepgram API at [developers.deepgram.com](https://developers.deepgram.com/docs).
+You can learn more about Deepgram APIs at [developers.deepgram.com](https://developers.deepgram.com/docs).
 
 ## Getting Help
 
