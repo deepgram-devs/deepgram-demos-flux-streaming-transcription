@@ -35,7 +35,7 @@ async def main():
     """Main async function to handle URL streaming to Deepgram Flux"""
 
     # Create the Deepgram async client
-    client = AsyncDeepgramClient()
+    client = AsyncDeepgramClient() # The API key retrieval happens automatically in the constructor
 
     try:
         # Connect to Flux with auto-detection for streaming audio
